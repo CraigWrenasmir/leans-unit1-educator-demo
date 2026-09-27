@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "iterations": 600000,
+  "salt": "xiAIN/wsGsiTFVrTaADcKQ==",
+  "module": {
+    "path": "protected/module.bin"
+  },
+  "downloads": {
+    "slides": {
+      "filename": "LEANS-Australia-Unit-1-Slides.pptx",
+      "bytes": 112943069,
+      "parts": [
+        "protected/slides-1.bin",
+        "protected/slides-2.bin",
+        "protected/slides-3.bin",
+        "protected/slides-4.bin"
+      ]
+    }
+  }
+}
